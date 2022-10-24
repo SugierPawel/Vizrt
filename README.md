@@ -2,9 +2,10 @@
 Dystrybucja danych dla Vizrt
 
 katalog "scenes":
-- default.xml główna scena "BackgroundScene"
-- forex.xlm "ForeGroundScene" plansza z walutami.
+- POLSAT.via archiwum projektu.
 - smog.xml pusta plansza.
+- default.xml główna scena "BackgroundScene".
+- forex.xlm "ForeGroundScene" plansza z walutami.
 
 katalog "scripts":
 - default.vb skrypt z głównej sceny "default"
