@@ -6,7 +6,7 @@ katalog "scenes":
 - forex.xlm "ForeGroundScene" plansza z walutami.
 - smog.xml pusta plansza.
 
-katalog "scripts"
+katalog "scripts":
 - default.vb skrypt z głównej sceny "default"
 - forex.vb skrypt ze sceny "forex"
 
