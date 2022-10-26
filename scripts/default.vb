@@ -107,4 +107,3 @@ End Sub
 Sub process_SMOG(systemName AS String, value AS String)
     'SMOG_Lodz|1
 End Sub
-
